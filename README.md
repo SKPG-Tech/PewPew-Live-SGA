@@ -2,7 +2,7 @@
 A [PewPew Live](https://pewpew.live/) lua mesh that has the Standard Galactic Alphabet. 
 
 ## Why make it?
-It was made purely just for the fun of it and as a learning project. It is not meant to be something big that everyone uses. It includes my crappy lua code, so please don't judge me, thats why I made it to learn lua and [Blender](https://www.blender.org/) better.
+It was made purely just for the fun of it and as a learning project. It is not meant to be something big that everyone uses. It includes my crappy lua code, so please don't judge me, that's why I made it to learn lua and [Blender](https://www.blender.org/) better.
 
 ## How To Use
 Using this alphabet is easy with the tools provided. Fork, download or git clone this repository to get started.\
