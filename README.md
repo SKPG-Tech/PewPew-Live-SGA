@@ -5,12 +5,11 @@ A [PewPew Live](https://pewpew.live/) lua mesh that has the Standard Galactic Al
 It was made purely just for the fun of it and as a learning project. It is not meant to be something big that everyone uses.
 
 ## How To Use
-Using this alphabet is easy with the tools provided. Fork, download or git clone this repository to get started.
+Using this alphabet is easy with the tools provided. Fork, download or git clone this repository to get started.\
+Taking a look at the Wiki will get you started easily with no issues.
 
-1. Once you have a copy of this repository, place ```SGA_Text_parser.lua``` and ```SGA_Letters.lua``` in your level directory. Make **sure** they both are in the **same place**!
-2. At a chosen place, define a SGA Text Parser using this line of code `local SGA_Text_Parser = require("/dynamic/[PATH TO THE FILE]/SGA_Text_parser.lua")`
-3. |`SGA_Text_parser.lua` Functions|Description|Example
-   |-|-|-|
-   ||    Title    | ijqwie |
-   | Paragraph |    Text     | qpowjpoqwjdp |
+## How was it made?
+Everything was modelled in [Blender](https://www.blender.org/) and exported to a single lua mesh called `SGA_Letters.lua` using the great [ModEngineer](https://github.com/ModEngineer)'s Blender add-on.
 
+## Can I Edit it?
+Yes, going to the Wiki you can find a step by step explanation on how to edit the letter meshes.
