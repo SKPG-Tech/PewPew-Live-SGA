@@ -10,6 +10,3 @@ Taking a look at the Wiki will get you started easily with no issues.
 
 ## How was it made?
 Everything was modelled in [Blender](https://www.blender.org/) and exported to a single lua mesh called `SGA_Letters.lua` using the great [ModEngineer](https://github.com/ModEngineer)'s Blender add-on.
-
-## Can I Edit it?
-Yes, going to the Wiki you can find a step by step explanation on how to edit the letter meshes.
